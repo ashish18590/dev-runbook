@@ -23,12 +23,6 @@ ip addr show <interface name>
 
 # `ip route show` command
 ```
-# show complete route table
-ip route show
-```
-
-# `ip route show` command
-```
 # show routing table
 ip route show
 
